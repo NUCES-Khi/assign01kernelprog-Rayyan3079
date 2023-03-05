@@ -106,6 +106,7 @@ The screenshot is taken after the installation has been completed
 Now type uname -r to see if the kernel version name changed.
 
 Here it displays 213079 which is my roll number (21k-3079)
+
 ![image](https://user-images.githubusercontent.com/124567636/222948908-a80ea48e-0208-4209-b71a-cb7e9bd4c731.png)
 
 We check the system call by making a C code
