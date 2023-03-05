@@ -81,6 +81,7 @@ Now, we have to add our roll number in the extraversion of the kernel’s make f
 
 10) Creating a config file:
 We search for the config that we currently have by typing “ls /boot | grep config” and the we copy the config that is shown to us by typing “cp /boot/config-4.15.0-112-generic our linux kernel directory”. Then we create the old config by typing “yes "" | make oldconfig -j4”
+
 ![image](https://user-images.githubusercontent.com/124567636/222948357-e5fff0ac-2c0b-4e63-998d-6479b0164685.png)
 
 11) Cleaning and Compiling the kernel:
